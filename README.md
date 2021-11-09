@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @UltrascatterRED
-- 👀 I’m interested in game design and becoming better at programming
-- 🌱 I’m currently learning the technical side of game design
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in game design and becoming better at programming.
+- 🌱 I’m currently learning the technical side of game design.
 - 📫 How to reach me:
 Email: nathanielbartondev@gmail.com
 
